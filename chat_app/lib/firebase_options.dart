@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD9usN1jR1sMIJ0qfP32rqhO-ap08rDIVA',
+    apiKey: '',
     appId: '1:790010547424:web:64a3f578c162db97559485',
     messagingSenderId: '790010547424',
     projectId: 'flutter-firebase-project-5953d',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA_2SxvMu3TwTq0aRqq_ClhBo3jHww7HdY',
+    apiKey: '',
     appId: '1:790010547424:android:6fec4520cc31b343559485',
     messagingSenderId: '790010547424',
     projectId: 'flutter-firebase-project-5953d',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAyrUx_DXO85x4JbclMAgqWtbBtFlR_9NM',
+    apiKey: '',
     appId: '1:790010547424:ios:5ab266866f50b21b559485',
     messagingSenderId: '790010547424',
     projectId: 'flutter-firebase-project-5953d',
